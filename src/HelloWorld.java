@@ -1,4 +1,3 @@
-
 public class HelloWorld {
 
 	public String hello()
@@ -9,4 +8,5 @@ public class HelloWorld {
 	{
 		return "goodBye";
 	}
+//This is some comments added to the file via gitHub.
 }

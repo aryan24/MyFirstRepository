@@ -5,4 +5,8 @@ public class HelloWorld {
 	{
 		return "Hello";
 	}
+	public String goodBye()
+	{
+		return "goodBye";
+	}
 }
